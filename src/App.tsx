@@ -22,8 +22,12 @@ function App() {
           justifyContent: "center",
         }}
       >
-        <button>You can list from here</button>
-        <button>How to list your card</button>
+        <a href="https://thirdweb.com/degen-chain/0x6FaE5F3a204aB0c461caB9164F3860B20092f09b/direct-listings">
+          <button>You can list from here</button>
+        </a>
+        <a href="">
+          <button>How to list your card</button>
+        </a>
       </div>
     </>
   )
