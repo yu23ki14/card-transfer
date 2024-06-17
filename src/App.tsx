@@ -25,7 +25,7 @@ function App() {
         <a href="https://thirdweb.com/degen-chain/0x6FaE5F3a204aB0c461caB9164F3860B20092f09b/direct-listings">
           <button>You can list from here</button>
         </a>
-        <a href="">
+        <a href="https://tinyurl.com/23stubzy">
           <button>How to list your card</button>
         </a>
       </div>
