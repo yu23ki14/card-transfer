@@ -70,6 +70,12 @@ function App() {
         </a>
       </Flex>
 
+      <Text maxW={450} margin="0 auto" p={2} backgroundColor="yellow.400">
+        Buy me a coffee you like the idea!
+        <br />
+        0xdCb93093424447bF4FE9Df869750950922F1E30B
+      </Text>
+
       <Divider borderWidth={3} my={10} />
 
       {listingId && (
