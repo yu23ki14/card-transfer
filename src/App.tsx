@@ -22,11 +22,18 @@ function App() {
           justifyContent: "center",
         }}
       >
-        <a href="https://thirdweb.com/degen-chain/0x6FaE5F3a204aB0c461caB9164F3860B20092f09b/direct-listings">
-          <button>You can list from here</button>
+        <a
+          target="_blank"
+          href="https://thirdweb.com/degen-chain/0x6FaE5F3a204aB0c461caB9164F3860B20092f09b/direct-listings"
+        >
+          <button style={{ backgroundColor: "#472c8e", color: "white" }}>
+            List My Card
+          </button>
         </a>
-        <a href="https://tinyurl.com/23stubzy">
-          <button>How to list your card</button>
+        <a target="_blank" href="https://tinyurl.com/23stubzy">
+          <button style={{ color: "#472c8e", borderColor: "#472c8e" }}>
+            How to list cards
+          </button>
         </a>
       </div>
     </>
